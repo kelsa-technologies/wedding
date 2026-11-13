@@ -13,11 +13,14 @@ const data: Wedding = {
   mapUrl: "https://maps.google.com/maps?vet=10CAAQoqAOahcKEwjQjI6Q59WXAxUAAAAAHQAAAAAQDA..i&sca_esv=a5e9361146d2feed&mstk=AUtExfDZSMINuWforlbELchGpURmvdHxw53NJPivOg3-LgUrMafzv9IjppRz5nmZnV_Fv70BYnfVCdFpxsVxW2IrY3Wtercz9yXMnP0Sp1Q4IUoszqLf1LzRZDwPC_-mr5_k5yu2b8BZ5UU9V56rrwPzVoTo6zgqkQ46rnxDYsZQE-Jq26CGp3R9dxAYZ2Ymyhy3_zD2qFPpzCiMgWarYjipOds0IQF1mCHm0FhWIayNyhpeO-fJpEmeq9D9jZRuHGm5vDG7od97SA6QlnSky8oksFCM&hl=en&pvq=CgsvZy8xdGZmYm12ZIABAZABAQ&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&ftid=0x3bb14b1fe6a7f9b1:0xe0ccf1007b322476",
   whatsapp: "919490337530", // country code + number, no "+"
   story: [
-    "Our story began with our parents’ blessings and two hearts learning to beat a little closer. ❤️✨",
+    "A Match Made in Heaven Written by God, brought together by destiny, blessed by elders, and celebrated by family and friends." ,
+    
+    "Join us as we embark on this beautiful journey of love and togetherness. 💖✨",
+    // "Our story began with our parents’ blessings and two hearts learning to beat a little closer. ❤️✨",
 
-    "A few shy smiles, a little teasing, and one big YES to a lifetime of stealing hearts… and each other’s snacks! 😂💕💍",
+    // "A few shy smiles, a little teasing, and one big YES to a lifetime of stealing hearts… and each other’s snacks! 😂💕💍",
 
-    "From a beautiful arranged match to our favorite love story — forever starts with us. ♾️❤️"
+    // "From a beautiful arranged match to our favorite love story — forever starts with us. ♾️❤️"
     // "We met over a cup of filter coffee that went cold because neither of us wanted to stop talking.",
     // "Five years, two cities and one very opinionated dog later, we're getting married, and we'd love you to be there.",
   ],
